@@ -40,9 +40,9 @@ public class PaypalUtils  {
     //BN Code is only applicable for partners
     gv_BNCode		= "PP-ECWizard";
 
-    gv_APIUserName	= "sreenivasuluk-facilitator_api1.ivycomptech.com";
-	gv_APIPassword	= "1403675078";
-	gv_APISignature = "AFcWxV21C7fd0v3bYYYRCpSSRl31AWI8Jj1hoYuxwXPg2LFAub3QlAOC";
+    gv_APIUserName	= "<API_USER_NAME>";
+	gv_APIPassword	= "<API_PASSOWORD>";
+	gv_APISignature = "<API_SIGNATURE>";
 
 
     boolean bSandbox = true;
