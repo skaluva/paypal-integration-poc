@@ -52,9 +52,9 @@ public class CopyOfPaypalUtils  {
 	// Replace <API_PASSWORD> with your API Password
 	// Replace <API_SIGNATURE> with your Signature
 
-    gv_APIUserName	= "sreenivasuluk-facilitator_api1.ivycomptech.com";
-	gv_APIPassword	= "1403675078";
-	gv_APISignature = "AFcWxV21C7fd0v3bYYYRCpSSRl31AWI8Jj1hoYuxwXPg2LFAub3QlAOC";
+    gv_APIUserName	= "<API_USERNAME>";
+	gv_APIPassword	= "<API_PASSWORD>";
+	gv_APISignature = "<API_SIGNATURE>";
 
 
 /*    gv_APIUserName	= "<API_USERNAME>";
